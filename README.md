@@ -2,6 +2,8 @@
 Hi, This is **Tanishq Pal**, The creator of the luts you will find in this repository. 
 I personally made these luts for everyone else who is not using kdenlive to color grade their videos, Because i only uses kdenlive to color grade my footages , Edit my video and basically full production with a lot of ease.  But the problem was that i have open sourced all of the effect stacks i have ever used but it's only for kdenlive So the people using resolve, premier pro or any other software which supports luts can't directly use them. Which is why i made these luts to help others to get similar looks (If not the same).
 
+The Source code of each lut is stored in the **.json** file, And is intended to be used with the [xlut.gen-web](https://github.com/darkyboys/xlut.gen-web)
+
  > Note: These are both technical and creative luts.
 
 ## Structure
