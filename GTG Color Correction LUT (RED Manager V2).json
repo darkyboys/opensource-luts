@@ -1,0 +1,93 @@
+{
+  "brightness": 0,
+  "contrast": 0,
+  "saturation": 0,
+  "temperature": 0,
+  "tint": 0,
+  "curves": {
+    "r": {
+      "mode": "r",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.2923076923076923,
+          "y": 0.05423067533052883
+        },
+        {
+          "x": 0.3,
+          "y": 0.2811537522536057
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "g": {
+      "mode": "g",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "b": {
+      "mode": "b",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "luma": {
+      "mode": "luma",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "gamma": {
+      "mode": "rgb",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    }
+  },
+  "mappings": [],
+  "satNodes": [],
+  "globalOverlay": {
+    "enabled": false,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "opacity": 0
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "brightness": 0,
+  "contrast": 0,
+  "saturation": 0,
+  "temperature": 0,
+  "tint": 0,
+  "curves": {
+    "r": {
+      "mode": "r",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "g": {
+      "mode": "g",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "b": {
+      "mode": "b",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "luma": {
+      "mode": "luma",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 0.8773077157827525
+        }
+      ]
+    },
+    "gamma": {
+      "mode": "rgb",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.6807692307692308,
+          "y": 0.5657692542442909
+        },
+        {
+          "x": 0.9461538461538461,
+          "y": 0.7696154080904447
+        },
+        {
+          "x": 1,
+          "y": 0.8696154080904447
+        }
+      ]
+    }
+  },
+  "mappings": [],
+  "satNodes": [
+    {
+      "input": [
+        1,
+        0,
+        0
+      ],
+      "strength": 1,
+      "range": 1,
+      "soft": true
+    },
+    {
+      "input": [
+        1,
+        0,
+        0
+      ],
+      "strength": 1,
+      "range": 1,
+      "soft": true
+    }
+  ],
+  "globalOverlay": {
+    "enabled": false,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "opacity": 0
+  }
+}

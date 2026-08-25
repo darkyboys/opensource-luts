@@ -1,0 +1,155 @@
+{
+  "brightness": 0,
+  "contrast": 0.17,
+  "saturation": -0.67,
+  "temperature": 0,
+  "tint": 0.01,
+  "curves": {
+    "r": {
+      "mode": "r",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "g": {
+      "mode": "g",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "b": {
+      "mode": "b",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "luma": {
+      "mode": "luma",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "gamma": {
+      "mode": "rgb",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.5576923076923077,
+          "y": 0.47730759840745196
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    }
+  },
+  "mappings": [
+    {
+      "input": [
+        0,
+        1,
+        0
+      ],
+      "output": [
+        0,
+        0.8784313725490196,
+        1
+      ],
+      "range": 0.3,
+      "soft": false,
+      "opacity": 0.05,
+      "mode": "hue",
+      "restTint": [
+        0,
+        0,
+        0
+      ],
+      "restStrength": 0
+    },
+    {
+      "input": [
+        1,
+        0,
+        0
+      ],
+      "output": [
+        1,
+        0.2,
+        0
+      ],
+      "range": 0.3,
+      "soft": false,
+      "opacity": 0.1,
+      "mode": "hue",
+      "restTint": [
+        0,
+        0,
+        0
+      ],
+      "restStrength": 0
+    }
+  ],
+  "satNodes": [
+    {
+      "input": [
+        1,
+        0,
+        0
+      ],
+      "strength": 1,
+      "range": 1,
+      "soft": true
+    },
+    {
+      "input": [
+        0,
+        1,
+        0
+      ],
+      "strength": 1,
+      "range": 0,
+      "soft": true
+    }
+  ],
+  "globalOverlay": {
+    "enabled": false,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "opacity": 0
+  }
+}
